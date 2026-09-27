@@ -1,5 +1,4 @@
 # Email CRM — AI Conversation Summarizer
-
 A lightweight Google Sheets tool that reads your Gmail conversation history with any contact and generates an AI summary on demand — no manual logging, no third-party CRM subscription.
 
 ## How it works
